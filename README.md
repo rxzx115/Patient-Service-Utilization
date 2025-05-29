@@ -23,9 +23,9 @@ To retrieve data from Kaggle
 - Refer to the separate .sql file for further details
 
 ## Insights and Recommendations
-1. High Financial Loss from "MissingAuth" Denials.
+1. High financial loss from "MissingAuth" denials.
     - Implement a mandatory pre-authorization verification step in the scheduling process for all high-cost procedures before service delivery.
 2. "Comprehensive Metabolic Panel" yields the lowest profit margin per service.
     - Review the internal costs associated with the "Comprehensive Metabolic Panel" (e.g., reagents, labor, equipment depreciation) to identify opportunities for efficiency improvements and cost reduction.
-3. Declining Total Paid Amount Despite Stable Service Volume and Billed Amount. 
+3. Declining total paid amount despite stable service volume and billed amount. 
     - Implement an aggressive denial management and appeals process, including proactively tracking denied claims, assigning clear responsibilities for appeals, and dedicating resources to efficiently appeal claims.
